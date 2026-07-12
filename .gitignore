@@ -25,3 +25,6 @@ Thumbs.db
 /out/
 /bin/
 /obj/
+
+# log folder
+/logs
