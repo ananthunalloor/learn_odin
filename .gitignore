@@ -1,0 +1,27 @@
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Odin Build Artifacts
+*.bin
+*.exe
+*.o
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.pdb
+
+# Build Output Directories
+/build/
+/out/
+/bin/
+/obj/
