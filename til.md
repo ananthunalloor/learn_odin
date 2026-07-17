@@ -12,3 +12,7 @@
 
 - learned to read cmd line arguments
 - made working logging work as planned
+
+#### [17/07/2026]
+
+- learned to split logging to logging.odin file
