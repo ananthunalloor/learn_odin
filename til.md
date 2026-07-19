@@ -16,3 +16,7 @@
 #### [17/07/2026]
 
 - learned to split logging to logging.odin file
+
+#### [19/07/2026]
+
+- added simple ui with raylib
